@@ -1,0 +1,6 @@
+{
+  "name": "Eco-TMS: Edge-AI & Fuzzy Traffic System",
+  "description": "NESFIC-D-22 prototype: Edge-AI mixed-traffic computer vision, ESP32 environmental telemetry, and fuzzy inference signal decision-support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
